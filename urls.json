@@ -1,0 +1,24 @@
+[
+    {
+        "name": "GitHub",
+        "url": "https://github.com/Taskeren",
+        "tags": [
+            "Personal Account"
+        ]
+    },
+    {
+        "name": "Twitter",
+        "url": "https://twitter.com/TaskerenP",
+        "tags": [
+            "Personal Account"
+        ]
+    },
+    {
+        "__comment__": "阿里云上海服务器",
+        "name": "Shanghai Server",
+        "url": "http://47.100.187.152",
+        "tags": [
+            "Server Address"
+        ]
+    }
+]
